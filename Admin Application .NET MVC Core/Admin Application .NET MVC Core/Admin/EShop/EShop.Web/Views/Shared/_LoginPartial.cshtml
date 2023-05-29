@@ -1,0 +1,39 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<EShop.Domain.Identity.EShopApplicationUser> SignInManager
+@inject UserManager<EShop.Domain.Identity.EShopApplicationUser> UserManager
+
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+        <li>
+            <a class="nav-link text-dark" asp-area="" asp-controller="ShoppingCard" asp-action="Index">
+                <img src="~/css/shopping-cart.png" style="height: 20px;width: 20px;margin-left: 10px; margin-bottom: 2px" />
+
+            </a>
+
+        </li>
+        <li>
+
+        </li>
+    <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @User.Identity.Name!</a>
+    </li>
+    <li class="nav-item">
+        @*<form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+        </form>*@
+        <a class="nav-link text-dark" asp-controller="Account" asp-action="Logout">Log Out</a>
+    </li>
+    
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Account" asp-action="Register">Register</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Account" asp-action="Login">Login</a>
+    </li>
+}
+</ul>

@@ -1,0 +1,85 @@
+2022-05-04 17:17:11.6836|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 17:17:53.5654|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-04 17:17:53.6722|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-04 17:17:53.9324|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-05-04 17:18:23.2898|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:22:32.0016|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:22:32.7677|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:22:37.6597|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:22:37.7574|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:22:57.9833|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get create form for Product! 
+2022-05-04 17:23:13.0488|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Inser Product in DataBase! 
+2022-05-04 17:23:13.2538|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:23:18.9908|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:23:19.1764|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:23:38.7131|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get create form for Product! 
+2022-05-04 17:23:54.4901|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Inser Product in DataBase! 
+2022-05-04 17:23:54.6596|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:23:58.9230|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:23:59.0030|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:24:11.2210|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:32:43.6991|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 17:32:56.0416|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-04 17:32:56.0561|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-04 17:32:56.0952|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-05-04 17:33:07.7148|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:43:37.1938|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 17:43:46.8564|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-04 17:43:46.8564|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-04 17:43:46.8564|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-05-04 17:44:29.4236|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:44:33.8764|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:44:40.1784|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:44:40.3266|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:44:44.2566|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:44:44.3175|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:44:48.1577|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:44:48.2749|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:44:55.7705|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:44:55.9913|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:47:11.0961|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 17:47:15.5022|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-04 17:47:15.5022|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-04 17:47:15.5123|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-05-04 17:47:20.0451|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:47:28.4662|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:47:29.4649|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 17:47:33.4987|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-05-04 17:47:33.6552|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-05-04 18:24:29.2588|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 18:24:57.5884|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 18:25:38.2168|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 534: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor k32-20020a05600c1ca000b003942a244ec5sm4248236wms.10 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.9 Application-specific password required. Learn more at
+5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor k32-20020a05600c1ca000b003942a244ec5sm4248236wms.10 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Service.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\Implementation\EmailService.cs:line 55
+   at EShop.Service.Implementation.BackgroundEmailSender.DoWork() in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\Implementation\BackgroundEmailSender.cs:line 25
+   at EShop.Service.EmailScopedHostedService.DoWork() in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\EmailScopedHostedService.cs:line 32
+   at EShop.Service.EmailScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\EmailScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web\Program.cs:line 19
+2022-05-04 18:27:51.3824|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 18:28:06.5770|0|ERROR|EShop.Web.Program|Stopped program because of exception MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials t16-20020a05600c2f9000b003942a244f50sm4781031wmn.41 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. Learn more at
+5.7.8  https://support.google.com/mail/?p=BadCredentials t16-20020a05600c2f9000b003942a244f50sm4781031wmn.41 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EShop.Service.Implementation.EmailService.SendEmailAsync(List`1 allMails) in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\Implementation\EmailService.cs:line 55
+   at EShop.Service.Implementation.BackgroundEmailSender.DoWork() in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\Implementation\BackgroundEmailSender.cs:line 25
+   at EShop.Service.EmailScopedHostedService.DoWork() in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\EmailScopedHostedService.cs:line 32
+   at EShop.Service.EmailScopedHostedService.StartAsync(CancellationToken cancellationToken) in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Service\EmailScopedHostedService.cs:line 24
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at EShop.Web.Program.Main(String[] args) in C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web\Program.cs:line 19
+2022-05-04 18:29:20.7178|0|DEBUG|EShop.Web.Program|init main 
+2022-05-04 18:29:30.6068|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-04 18:29:30.6068|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-04 18:29:30.6068|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 

@@ -1,0 +1,13 @@
+2022-03-23 18:44:16.6615|0|DEBUG|EShop.Web.Program|init main 
+2022-03-23 18:44:19.6204|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-23 18:44:19.6204|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-23 18:44:19.6204|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-03-23 18:44:24.3843|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-03-23 18:44:30.1447|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-03-23 18:44:30.4754|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-03-23 18:44:32.4595|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get create form for Product! 
+2022-03-23 18:44:41.3636|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Inser Product in DataBase! 
+2022-03-23 18:44:41.4058|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-03-23 18:44:44.0149|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get edit form for Product! 
+2022-03-23 18:44:50.3270|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Update Product in DataBase! 
+2022-03-23 18:44:50.5183|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 

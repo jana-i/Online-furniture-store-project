@@ -1,0 +1,11 @@
+2022-04-27 17:16:26.6872|0|DEBUG|EShop.Web.Program|init main 
+2022-04-27 17:16:44.3471|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-27 17:16:44.3752|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-27 17:16:44.3752|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-04-27 17:59:33.6842|0|DEBUG|EShop.Web.Program|init main 
+2022-04-27 17:59:39.6062|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-04-27 17:59:39.6104|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-04-27 17:59:39.6104|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Dimitar Kitanovski\Desktop\Documents\Faculty\Summer Semester\Integrated Systems\Auditory Exercises\First\EShopApplication22\EShop\EShop.Web 
+2022-04-27 18:01:31.5142|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
+2022-04-27 18:01:36.3666|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Add Product in ShoppingCart and save changes in database! 
+2022-04-27 18:01:36.8115|0|INFO|EShop.Web.Controllers.ProductsController|User Request -> Get All products! 
